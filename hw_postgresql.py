@@ -1,4 +1,5 @@
 import psycopg2 as pg
+from pprint import pprint
 
 # Напишите следующие функции для работы с таблицами:
 # def create_db(): # создает таблицы
